@@ -1,0 +1,15 @@
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\bin\Debug\Quanlibanhang.exe
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\bin\Debug\Quanlibanhang.pdb
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.Properties.Resources.resources
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.csproj.GenerateResource.Cache
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.exe
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.pdb
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.FormSanPham.resources
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.Home.resources
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.FormKhachHang.resources
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.FormHoaDon.resources
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.csprojResolveAssemblyReference.cache
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.ReportHoaDon.resources
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\RdlCompile.cache
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\RdlCompile.compiled
+E:\hoc Csharp\Quanlibanhang\Quanlibanhang\Quanlibanhang\obj\x86\Debug\Quanlibanhang.ReportHangTon.resources
